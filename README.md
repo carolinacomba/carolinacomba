@@ -16,6 +16,7 @@
 - __Desarrollo Backend__: Java, .NET, C#.
 - __Bases de datos__: MySQL, PostgreSQL, SQL Server.
 - __Herramientas de control de versiones__: Git, GitHub.
+- __Metodologías ágiles__: Scrum.
 - __Docker__: tengo conocimientos en contenerización de aplicaciones y gestión de contenedores para el desarrollo y despliegue de aplicaciones web y de software.
 
 ##
