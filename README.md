@@ -6,7 +6,7 @@
 
 - 20 años.
 - Córdoba, Argentina.
-- 📫carolinacomba42@gmail.com
+- carolinacomba42@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/caro-comba-/).
 
 ## Mis habilidades
