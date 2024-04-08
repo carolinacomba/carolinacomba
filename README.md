@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy Carolina Comba y soy estudiante de programación. Acá encontrarás una variedad de proyectos que he realizado.
+¡Bienvenido a mi perfil de GitHub! Soy _Carolina Comba_ y soy estudiante de programación. Acá encontrarás una variedad de proyectos que he realizado.
 
 ## Sobre mí
 
@@ -12,11 +12,11 @@
 
 ## Mis habilidades
 
-- Desarrollo web: HTML, CSS, JavaScript, Angular, TypeScript, Bootstrap, TailwindCSS.
-- Desarrollo de software: Java, .NET, C#.
-- Bases de datos: MySQL, PostgreSQL, SQL Server.
-- Herramientas de control de versiones: Git, GitHub.
-- Docker: tengo conocimientos en contenerización de aplicaciones y gestión de contenedores para el desarrollo y despliegue de aplicaciones web y de software.
+- _Desarrollo Frontend_: HTML, CSS, JavaScript, Angular, TypeScript, Bootstrap, TailwindCSS.
+- _Desarrollo Backend_: Java, .NET, C#.
+- _Bases de datos_: MySQL, PostgreSQL, SQL Server.
+- _Herramientas de control de versiones_: Git, GitHub.
+- _Docker_: tengo conocimientos en contenerización de aplicaciones y gestión de contenedores para el desarrollo y despliegue de aplicaciones web y de software.
 
 ##
 
