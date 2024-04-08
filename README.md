@@ -1,16 +1,20 @@
-### Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**carocomba28/carocomba28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy Carolina Comba y soy estudiante de programación. Acá encontrarás una variedad de proyectos que he realizado.
 
-Here are some ideas to get you started:
+## Acerca de mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 20 años.
+- Córdoba, Argentina.
+- 📫carolinacomba42@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/caro-comba-/).
+
+## Mis habilidades
+
+- Desarrollo web: HTML, CSS, JavaScript, Angular, TypeScript, Bootstrap, TailwindCSS.
+- Desarrollo de software: Java, .NET, C#.
+- Bases de datos: MySQL, PostgreSQL, SQL Server.
+- Herramientas de control de versiones: Git, GitHub.
+- Docker: Conocimientos en contenerización de aplicaciones y gestión de contenedores para el desarrollo y despliegue de aplicaciones web y de software.
+
+¡No dudes en explorar mis proyectos y contribuciones! ¡Gracias por visitar mi perfil!
