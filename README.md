@@ -16,7 +16,7 @@
 - Desarrollo de software: Java, .NET, C#.
 - Bases de datos: MySQL, PostgreSQL, SQL Server.
 - Herramientas de control de versiones: Git, GitHub.
-- Docker: Conocimientos en contenerización de aplicaciones y gestión de contenedores para el desarrollo y despliegue de aplicaciones web y de software.
+- Docker: tengo conocimientos en contenerización de aplicaciones y gestión de contenedores para el desarrollo y despliegue de aplicaciones web y de software.
 
 ##
 
