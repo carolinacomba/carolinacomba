@@ -12,7 +12,7 @@
 
 ## Mis habilidades
 
-- <u>Desarrollo Frontend</u>: HTML, CSS, JavaScript, Angular, TypeScript, Bootstrap, TailwindCSS.
+- __Desarrollo Frontend__: HTML, CSS, JavaScript, Angular, TypeScript, Bootstrap, TailwindCSS.
 - __Desarrollo Backend__: Java, .NET, C#.
 - __Bases de datos__: MySQL, PostgreSQL, SQL Server.
 - __Herramientas de control de versiones__: Git, GitHub.
