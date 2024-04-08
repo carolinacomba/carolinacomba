@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy Carolina Comba y soy estudiante de programación. Acá encontrarás una variedad de proyectos que he realizado.
 
-## 
+## Sobre mí
 
 - 20 años.
 - Córdoba, Argentina.
