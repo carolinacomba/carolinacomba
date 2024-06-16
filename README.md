@@ -4,7 +4,7 @@
 
 ## Sobre mí
 
-- 20 años.
+- 21 años.
 - Córdoba, Argentina.
 - carolinacomba42@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/caro-comba-/)
