@@ -1,24 +1,57 @@
-# ¡Hola! 👋
+### 👋 ¡Hola, bienvenido a mi perfil de GitHub!
 
-¡Bienvenido a mi perfil de GitHub! Soy __Carolina Comba__ y soy estudiante de programación. Acá encontrarás una variedad de proyectos que he realizado.
+Soy **Carolina Comba**, estudiante de programación apasionada por el desarrollo y la tecnología. Acá encontrarás proyectos en los que he trabajado, desde aplicaciones frontend hasta sistemas backend.
 
-## Sobre mí
+---
 
-- 21 años.
-- Córdoba, Argentina.
-- carolinacomba42@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/caro-comba-/)
-- [Portafolio](https://my-portfolio-carolina-comba.vercel.app/)
+## 🌎 Sobre mí
 
-## Mis habilidades
+<table>
+  <tr>
+    <td><strong>📍 Ubicación:</strong></td>
+    <td>Córdoba, Argentina</td>
+  </tr>
+  <tr>
+    <td><strong>📧 Contacto:</strong></td>
+    <td><a href="mailto:carolinacomba42@gmail.com">carolinacomba42@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>🔗 Redes:</strong></td>
+    <td>
+      <a href="https://www.linkedin.com/in/caro-comba-/">LinkedIn</a> | 
+      <a href="https://my-portfolio-carolina-comba.vercel.app/">Portafolio</a>
+    </td>
+  </tr>
+</table>
 
-- __Desarrollo Frontend__: HTML, CSS, JavaScript, Angular, TypeScript, Bootstrap, TailwindCSS.
-- __Desarrollo Backend__: Java, .NET, C#.
-- __Bases de datos__: MySQL, PostgreSQL, SQL Server.
-- __Herramientas de control de versiones__: Git, GitHub.
-- __Metodologías ágiles__: Scrum.
-- __Docker__: tengo conocimientos en contenerización de aplicaciones y gestión de contenedores para el desarrollo y despliegue de aplicaciones web y de software.
+---
 
-##
+## 💻 Tecnologías y habilidades
 
-¡No dudes en explorar mis proyectos y contribuciones! ¡Gracias por visitar mi perfil!
+### 🚀 Desarrollo Frontend
+- HTML, CSS, JavaScript
+- Angular, TypeScript
+- Bootstrap, Tailwind CSS
+
+### 🖥️ Desarrollo Backend
+- Java, .NET, C#
+- Spring Boot
+
+### 🗄️ Bases de Datos
+- MySQL, PostgreSQL, SQL Server
+
+### 🛠️ Herramientas y Metodologías
+- Git, GitHub
+- Docker (Contenerización y despliegue de aplicaciones)
+- Scrum (Metodologías ágiles)
+- Test Unitarios y de Integración con JUnit
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=carolinacomba&theme=radical" />
+</p>
+
+¡Gracias por visitar mi perfil! No dudes en explorar mis repositorios y conectar conmigo.
