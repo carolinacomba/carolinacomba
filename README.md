@@ -50,10 +50,8 @@ Soy **Carolina Comba**, estudiante de programación apasionada por el desarrollo
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinacomba&layout=compact&theme=radical" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=carolinacomba&theme=radical" />
-</p>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinacomba&layout=compact&theme=radical" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=carolinacomba&theme=radical" />
 
 
 ¡Gracias por visitar mi perfil! No dudes en explorar mis repositorios y conectar conmigo.
