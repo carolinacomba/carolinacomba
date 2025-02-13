@@ -18,8 +18,8 @@ Soy **Carolina Comba**, estudiante de programación apasionada por el desarrollo
   <tr>
     <td><strong>🔗 Redes:</strong></td>
     <td>
-      <a href="https://www.linkedin.com/in/carolinacomba/">LinkedIn</a> | 
-      <a href="https://my-portfolio-carolina-comba.vercel.app/">Portafolio</a>
+      <a href="https://www.linkedin.com/in/carolinacomba/" target="_blank">LinkedIn</a> | 
+      <a href="https://my-portfolio-carolina-comba.vercel.app/" target="_blank">Portafolio</a>
     </td>
   </tr>
 </table>
