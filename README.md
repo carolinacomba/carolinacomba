@@ -34,8 +34,8 @@ Soy **Carolina Comba**, estudiante de programación apasionada por el desarrollo
 - Bootstrap, Tailwind CSS
 
 ### 🖥️ Desarrollo Backend
-- Java, .NET, C#
-- Spring Boot
+- Java (Spring Boot, JPA, Hibernate)
+- .NET (C#, ASP.NET Core, Entity Framework)
 
 ### 🗄️ Bases de Datos
 - MySQL, PostgreSQL, SQL Server
