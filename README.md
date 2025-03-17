@@ -52,7 +52,8 @@ Soy **Carolina Comba**, estudiante de programación apasionada por el desarrollo
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinacomba&layout=compact&theme=dark" />
 <img width="50%" src="https://streak-stats.demolab.com/?user=carolinacomba&theme=dark" />
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=carocombac03&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/carolinacomba/spotify-github-profile)
+<img width="50%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=carocombac03&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
+
 
 
 ¡Gracias por visitar mi perfil! No dudes en explorar mis repositorios y conectar conmigo.
