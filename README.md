@@ -50,7 +50,7 @@ Soy **Carolina Comba**, estudiante de programación apasionada por el desarrollo
 
 ## 📊 GitHub Stats
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinacomba&layout=compact&theme=dark" />
+<img width="50%" src="https://github-readme-stats-seven-sand-49.vercel.app/api/top-langs/?username=carolinacomba&layout=compact&theme=dark" />
 <img width="50%" src="https://streak-stats.demolab.com/?user=carolinacomba&theme=dark" />
 
 ## 🎵 Music
